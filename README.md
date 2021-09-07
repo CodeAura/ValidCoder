@@ -1,6 +1,7 @@
-# ValidCoder
+# :sunny: ValidCoder :sunny:
 ## Upcomming Software developer
 
 
 
-- Intrested in 
+- Intrested in:
+- :sunny: 
