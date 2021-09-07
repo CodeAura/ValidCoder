@@ -1,6 +1,6 @@
 # ValidCoder
-## Learning Python, Java, C++
+## Upcomming Software developer
 
 
-# About me:
-- 
+
+- Intrested in 
